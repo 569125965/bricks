@@ -1,2 +1,2 @@
-# bricks
-cocoscreator sample bricks broker
+# hello-world
+Hello world new project template.
